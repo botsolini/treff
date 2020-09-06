@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "roleplay": {
+      "commandName": "Executable",
+      "executablePath": "D:\\altv server\\treffpunkt\\server\\altv-server.exe",
+      "workingDirectory": "D:\\altv server\\treffpunkt\\server"
+    }
+  }
+}
