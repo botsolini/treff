@@ -1,0 +1,8 @@
+C:\Users\ol\Desktop\server\eigen\server mein\resources\roleplay\server\netcoreapp3.1\roleplay.deps.json
+C:\Users\ol\Desktop\server\eigen\server mein\resources\roleplay\server\netcoreapp3.1\roleplay.dll
+C:\Users\ol\Desktop\server\eigen\server mein\resources\roleplay\server\netcoreapp3.1\roleplay.pdb
+C:\Users\ol\Desktop\server\eigen\sol\obj\Debug\netcoreapp3.1\roleplay.csproj.CoreCompileInputs.cache
+C:\Users\ol\Desktop\server\eigen\sol\obj\Debug\netcoreapp3.1\roleplay.AssemblyInfoInputs.cache
+C:\Users\ol\Desktop\server\eigen\sol\obj\Debug\netcoreapp3.1\roleplay.AssemblyInfo.cs
+C:\Users\ol\Desktop\server\eigen\sol\obj\Debug\netcoreapp3.1\roleplay.dll
+C:\Users\ol\Desktop\server\eigen\sol\obj\Debug\netcoreapp3.1\roleplay.pdb
